@@ -9,7 +9,7 @@ require (
 	github.com/cosmos/cosmos-sdk v0.41.3
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
 	github.com/go-kit/kit v0.10.0
-	github.com/gogo/protobuf v1.3.2
+	github.com/gogo/protobuf v1.3.3
 	github.com/golang/protobuf v1.4.3
 	github.com/gorilla/context v1.1.1
 	github.com/gorilla/mux v1.8.0
